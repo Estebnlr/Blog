@@ -67,12 +67,12 @@ nav .profile-link{
 }
 nav .profile-link a{
     color:black;
-    border-bottom: 3px solid black;
+    border-bottom: 4px solid black;
     font-weight: 700;
 }
 nav .profile-link a:hover{
     color:black;
-    border-bottom: 3px solid #47cfac;
+    border-bottom: 4px solid #47cfac;
     font-weight: 700;
 }
 
@@ -114,7 +114,7 @@ nav .profile-link a:hover{
 .home-main-button:hover {
 	border: 3px solid transparent;
 	background-color: white;
-    font-size: 20px;
+   
 }
 footer{
     width: 100%;
