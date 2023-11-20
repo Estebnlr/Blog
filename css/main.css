@@ -69,6 +69,7 @@ nav .profile-link a{
     color:black;
     border-bottom: 4px solid black;
     font-weight: 700;
+    font-size: 1.2rem;
 }
 nav .profile-link a:hover{
     color:black;
@@ -93,28 +94,27 @@ nav .profile-link a:hover{
     margin-top: 80px;
 }
 .home-main-text{
-    font-size: 30px;
+    font-size: 2.5rem;
     font-weight: 700px;
     letter-spacing: 10px;
     color: white;
     text-align: center;
 }
 .home-main-button{
-    width: 200px;
-    height: 50px;
+    width: 250px;
+    height: 80px;
     background-color: #47cfac;
     display: grid;
     align-items: center;
     font-weight: 700;
-    font-size: 18px;
-    border-radius: 20px;
+    font-size: 2rem;
+    border-radius: 30px;
     cursor: pointer;
     border-color: transparent;
 }
 .home-main-button:hover {
 	border: 3px solid transparent;
 	background-color: white;
-   
 }
 footer{
     width: 100%;
