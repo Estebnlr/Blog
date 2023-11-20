@@ -101,14 +101,14 @@ nav .profile-link a:hover{
     text-align: center;
 }
 .home-main-button{
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 70px;
     background-color: #47cfac;
     display: grid;
     align-items: center;
     font-weight: 700;
-    font-size: 2rem;
-    border-radius: 30px;
+    font-size: 1.8rem;
+    border-radius: 10px;
     cursor: pointer;
     border-color: transparent;
 }
